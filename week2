@@ -94,3 +94,10 @@ void main(){
     printf("Postfix Expression:%s",postfix);
     getch();
 }
+
+
+
+Output-:
+
+Enter infix expression:A^B*C-D+E/F/(G+H)
+Postfix Expression:AB^C*D-EF/GH+/+
