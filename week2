@@ -78,6 +78,7 @@ void infixtopostfix(){
         temp=pop();
         postfix[pos++]=temp;
     }
+postfix[pos]='\0';
 
 }
 
