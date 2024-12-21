@@ -101,3 +101,32 @@ void main()
 
     return;
 }
+
+
+Output:
+
+1-push,2-pop,3-topele,4-isempty,5-isfull,6-display,7-exit:1
+Enter element to insert:5
+Done
+1-push,2-pop,3-topele,4-isempty,5-isfull,6-display,7-exit:1
+Enter element to insert:10
+Done
+1-push,2-pop,3-topele,4-isempty,5-isfull,6-display,7-exit:1
+Enter element to insert:15
+Done
+1-push,2-pop,3-topele,4-isempty,5-isfull,6-display,7-exit:1
+Stack overflow
+1-push,2-pop,3-topele,4-isempty,5-isfull,6-display,7-exit:6
+15	10	5	
+1-push,2-pop,3-topele,4-isempty,5-isfull,6-display,7-exit:2
+15
+1-push,2-pop,3-topele,4-isempty,5-isfull,6-display,7-exit:2
+10
+1-push,2-pop,3-topele,4-isempty,5-isfull,6-display,7-exit:2
+5
+1-push,2-pop,3-topele,4-isempty,5-isfull,6-display,7-exit:2
+Stack underflow
+-1
+1-push,2-pop,3-topele,4-isempty,5-isfull,6-display,7-exit:6
+empty Stack
+1-push,2-pop,3-topele,4-isempty,5-isfull,6-display,7-exit:7
